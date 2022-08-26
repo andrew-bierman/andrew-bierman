@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h1 align="left">Hi there 👋, I'm Andrew</h1>
 <h3 align="left">A passionate software developer from Washington D.C.</h3>
 
-- 🔭 I’m currently working on a project using the National Park Service API 
-- :pencil2: I'm currently studying at @AppAcademy
+- 🔭 I’m currently working on a project using the **National Park Service** API 
+- :pencil2: I'm currently studying @ **AppAcademy**
 - 🌱 I’m currently learning **JavaScript** and Node.js
 - 👯 I’m looking to collaborate on any open-source project
 - 💬 Ask me about tech or the outdoors
