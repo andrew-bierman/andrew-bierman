@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a project using the **National Park Service** API 
 - :pencil2: I'm currently studying @ **AppAcademy**
-- 🌱 I’m currently learning **JavaScript** and Node.js
+- 🌱 I’m currently learning **JavaScript** and **Node.js**
 - 👯 I’m looking to collaborate on any open-source project
 - 💬 Ask me about tech or the outdoors
 
