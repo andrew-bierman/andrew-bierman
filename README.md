@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **JavaScript** and **Node.js**
 - 👯 I’m looking to collaborate on any open-source project
 - 💬 Ask me about tech or the outdoors
-- 📫 How to reach me: Send me a message on <a href="https://www.linkedin.com/in/andrew-bierman/">LinkedIn</a> or via <a href="mailto:andrew.bierman@colorado.edu">Email</a>
+- 📫 How to reach me: send a message on <a href="https://www.linkedin.com/in/andrew-bierman/">LinkedIn</a> or via <a href="mailto:andrew.bierman@colorado.edu">Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
