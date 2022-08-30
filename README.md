@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="left">A passionate software developer from Washington D.C.</h3>
 
 - 🔭 I’m currently working on a project using the **National Park Service** API 
-- :pencil2: I'm currently studying @ **AppAcademy**
+- :pencil2: I'm currently studying @ <a href="https://www.appacademy.io/">**AppAcademy**</a> 
 - 🌱 I’m currently learning **JavaScript** and **Node.js**
 - 👯 I’m looking to collaborate on any open-source project
 - 🤔 I’m looking for help with **Solidity** and **Rust** based projects
