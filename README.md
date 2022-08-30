@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 - :pencil2: I'm currently studying @ **AppAcademy**
 - 🌱 I’m currently learning **JavaScript** and **Node.js**
 - 👯 I’m looking to collaborate on any open-source project
+- 🤔 I’m looking for help with **Solidity** and **Rust** based projects
 - 💬 Ask me about tech or the outdoors
 - 📫 How to reach me: send a message on <a href="https://www.linkedin.com/in/andrew-bierman/">LinkedIn</a> or via <a href="mailto:andrew.bierman@colorado.edu">Email</a>
+- ⚡ Fun fact: my favorite food is sushi :sushi:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
