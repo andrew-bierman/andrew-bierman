@@ -41,6 +41,12 @@ const MainPage = () => {
                 <div className="header-wrapper" id="home">
                     {/* <!-- Begin Hero --> */}
                     <section className="hero is-large">
+                        {/* <div className="overlay-animation is-large">
+                            <div className="hero-body">
+                                <div className="container has-text-centered">
+                                </div>
+                            </div>
+                        </div> */}
                         <Navbar />
 
                         {/* <!-- Begin Mobile Nav --> */}
@@ -152,7 +158,7 @@ const MainPage = () => {
                     <Skills />
                     {/* <!-- End Services Content --> */}
                     {/* <!-- Begin Skills Content --> */}
-                    <div className="section-light skills" id="skills">
+                    {/* <div className="section-light skills" id="skills">
                         <div className="container">
                             <div className="columns is-multiline">
                                 <div className="column is-12 about-me">
@@ -188,7 +194,7 @@ const MainPage = () => {
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/* <!-- End Skills Content --> */}
 
                     {/* <!-- Begin View Resume Section */}

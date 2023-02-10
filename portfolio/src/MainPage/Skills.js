@@ -12,7 +12,7 @@ const Skills = () => {
                             data-aos="fade-in"
                             data-aos-easing="linear"
                         >
-                            <h1 className="title has-text-centered section-title">Services</h1>
+                            <h1 className="title has-text-centered section-title">Skills</h1>
 
                             <h2 className="subtitle">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
