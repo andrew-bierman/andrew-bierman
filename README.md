@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a project using the **National Park Service** API 
 - 🎓 I studied @ <a href="https://www.appacademy.io/">**AppAcademy**</a> and the <a href="https://www.colorado.edu/">**University of Colorado**</a>
-- 🌱 I’m currently learning **JavaScript** and **Node.js**
+- 🌱 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on any open-source project
 - 🤔 I’m looking for help with **Solidity** and **Rust** based projects
 - 💬 Ask me about tech or the outdoors
@@ -74,3 +74,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<br/>
+
+![Andrew Bierman's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-bierman&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
