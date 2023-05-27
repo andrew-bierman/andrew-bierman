@@ -76,4 +76,12 @@ Here are some ideas to get you started:
 
 <br/>
 
+
+
+<details><summary>Stats</summary>
+<p>
+
 ![Andrew Bierman's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-bierman&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+</p>
+</details>
